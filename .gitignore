@@ -1,0 +1,28 @@
+# Gradle and Android Studio
+.gradle/
+.kotlin/
+.idea/
+build/
+local.properties
+/android/gradle/gradle-daemon-jvm.properties
+*.iml
+.cxx/
+.externalNativeBuild/
+captures/
+
+# Local databases and logs
+*.mv.db
+*.trace.db
+*.log
+
+# Credentials and signing keys
+.env
+.env.*
+!.env.example
+*.jks
+*.keystore
+key.properties
+
+# Operating system files
+.DS_Store
+Thumbs.db
