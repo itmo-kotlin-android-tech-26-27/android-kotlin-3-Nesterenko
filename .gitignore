@@ -4,7 +4,6 @@
 .idea/
 build/
 local.properties
-/android/gradle/gradle-daemon-jvm.properties
 *.iml
 .cxx/
 .externalNativeBuild/
