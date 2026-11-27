@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Performance UGC · ЛР3</string>
+    <style name="Theme.PerformanceStudio" parent="android:style/Theme.Material.Light.NoActionBar">
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:windowLightNavigationBar">true</item>
+        <item name="android:windowBackground">#F6F5F9</item>
+        <item name="android:windowActionModeOverlay">true</item>
+    </style>
+</resources>
